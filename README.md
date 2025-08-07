@@ -63,7 +63,7 @@
 
 - 🌦 **[Climate-Bot](https://github.com/vladelo777/Vladelo-Climate-Bot)**  
   Telegram-бот с парсингом от BeautifulSoup для получения статистики погоды  
-  👉 [Открыть бота](https://t.me/vladelo_climate_bot)
+  👉 [Открыть бота](https://t.me/vladelo_weather_bot)
 
 ---
 
