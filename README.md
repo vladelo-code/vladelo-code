@@ -5,8 +5,7 @@
 Разрабатываю микросервисы с использованием FastAPI, PostgreSQL, Docker и асинхронного стека. Создаю Telegram-ботов,
 автоматизирую задачи, прокачиваюсь в архитектуре и работе с данными.
 
-Ищу стажировку или работу в IT — хочу развиваться в команде, решать реальные задачи и делать качественный код. Больше
-всего тянет в web-разработке.
+Ищу работу в IT — хочу развиваться в команде, решать реальные задачи и делать качественный код 👾
 
 ---
 
@@ -25,6 +24,7 @@
 
 ### 🧰 Фреймворки и библиотеки
 
+![OpenAI](https://img.shields.io/badge/-OpenAI-05122A?style=flat&logo=openai)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
 ![Pydantic](https://img.shields.io/badge/-Pydantic-05122A?style=flat&logo=pydantic)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-05122A?style=flat&logo=sqlalchemy)
@@ -51,23 +51,36 @@
 
 ## 🚀 Pet-проекты
 
-- 🛍️ **[FastAPI-Online-Shop](https://github.com/vladelo777/FastAPI-Online-Shop)**  
+- 🛍️ **[FastAPI-Online-Shop](https://github.com/vladelo-code/FastAPI-Online-Shop)**  
   Интернет-магазин с JWT-авторизацией, PostgreSQL, асинхронным FastAPI, Alembic, Redis, Docker и Pytest
 
-- 🍔 **[FastAPI-Restaurant](https://github.com/vladelo777/FastAPI-Restaurant)**  
+- 🍔 **[FastAPI-Restaurant](https://github.com/vladelo-code/FastAPI-Restaurant)**  
   Проект REST API для управления рестораном — блюдами и заказами — с использованием FastAPI, SQLAlchemy и PostgreSQL.
 
-- 🎮 **[Sea-Battle-Bot](https://github.com/vladelo777/Sea-Battle-Bot)**  
+- 🎮 **[Sea-Battle-Bot](https://github.com/vladelo-code/Sea-Battle-Bot)**  
   Telegram-бот для онлайн-игры в морской бой, с генерацией карт, онлайн-соперником и пошаговой логикой на Aiogram  
   👉 [Открыть бота](https://t.me/vladelo_sea_battle_bot)
 
-- 🎸 **[Song Hunter Bot](https://github.com/vladelo777/Song-Hunter-Bot)**  
+- 🎸 **[Song Hunter Bot](https://github.com/vladelo-code/Song-Hunter-Bot)**  
   Telegram-бот для угадывания песен по коротким аудиофрагментам с рейтингами и статистикой, реализован на Aiogram и SQLite  
   👉 [Открыть бота](https://t.me/song_sniper_bot)
 
-- 🌦 **[Climate-Bot](https://github.com/vladelo777/Vladelo-Climate-Bot)**  
+- 🌦 **[Climate-Bot](https://github.com/vladelo-code/Vladelo-Climate-Bot)**  
   Telegram-бот с парсингом от BeautifulSoup для получения статистики погоды  
   👉 [Открыть бота](https://t.me/vladelo_weather_bot)
+
+---
+
+## 💼 Карьера
+
+✅ **03/2025 — 08/2025** | **AVB Invest** *(Стажировка, Backend Developer)* – [смотреть рекомендательное письмо](https://disk.yandex.ru/i/Vz4tEd-BDYlzrQ)
+  - FastAPI, PostgreSQL, Docker
+  - Разработка микросервиса support-service для интернет-магазина
+
+🍀 **08/2025 — настоящее время** | **Сбер** *(Стажировка, Backend Developer, M&A Investment Banking)*  
+  - Python, OpenAI API, Aiogram, SQL  
+  - CI/CD, поддержка существущих Telegram-ботов
+  - Разработка и внедрение AI-агентов
 
 ---
 
@@ -96,7 +109,8 @@
 - 📍 Москва, Россия
 - 📄 [Резюме в PDF-формате](https://disk.yandex.ru/i/iDIPdISB0F__Tg)
 - 🕸️ [Резюме на hh.ru](https://hh.ru/resume/cf857c35ff0e72c7610039ed1f745836647a4c)
-- 🧑‍💻 [GitHub](https://github.com/vladelo777)
+- 🧑‍💻 [GitHub](https://github.com/vladelo-code)
+- 🧑‍💻 [Gitverse](https://gitverse.ru/vladelo)
 - 💬 [Telegram: @vladelo](https://t.me/vladelo)
 
 ---
@@ -105,8 +119,4 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vladelo777&show_icons=true&theme=github_dark&hide=prs)
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladelo777&layout=compact&theme=github_dark)
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=vladelo777&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
