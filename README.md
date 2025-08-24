@@ -22,7 +22,7 @@
 
 ---
 
-### 🧰 Фреймворки и библиотеки
+### 🧰 Фреймворки и библиотеки 
 
 ![OpenAI](https://img.shields.io/badge/-OpenAI-05122A?style=flat&logo=openai)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
