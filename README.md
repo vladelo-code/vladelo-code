@@ -117,6 +117,6 @@
 
 ## 📈 GitHub статистика
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vladelo777&show_icons=true&theme=github_dark&hide=prs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vladelo-code&show_icons=true&theme=github_dark&hide=prs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladelo777&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladelo-code&layout=compact&theme=github_dark)
